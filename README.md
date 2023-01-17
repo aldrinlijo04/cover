@@ -150,5 +150,9 @@ cover.html
 ## Output:
 ![output](/Screenshot%202023-01-09%20094612.png)
 
+## HTML Validator:
+
+![output](/Screenshot%202023-01-17%20080615.png)
+
 ## Result:
 Therfore the creation of webpage for a book using HTML,CSS is executed successfully.
